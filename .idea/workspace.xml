@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79ee1ce1-0986-4b6c-be6a-1f65df4d5afa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api_login/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/own_modules/login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_backend_1_0/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_backend_1_0/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_login/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_login/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_data/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

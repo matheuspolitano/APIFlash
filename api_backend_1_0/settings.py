@@ -86,6 +86,14 @@ DATABASES = {
         'PASSWORD':'994094090',
         'HOST':'localhost',
         'PORT':'5432'
+    },
+    "flash_db":{
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': "flash",
+        'USER':'flash',
+        'PASSWORD':'flash00',
+        'HOST':'177.154.146.97',
+        'PORT':'5436'
     }
 }
 
